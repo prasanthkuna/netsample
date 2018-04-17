@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{75F36A7F-F9F7-4FC5-B657-DB521F057752}|Default">
+  <MonoDevelop.Ide.ItemProperties.coreMysql PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="coreMysql/Controllers/JuiceController.cs">
+    <Files>
+      <File FileName="coreMysql/appsettings.json" Line="3" Column="114" />
+      <File FileName="coreMysql/Properties/launchSettings.json" Line="22" Column="30" />
+      <File FileName="coreMysql/Startup.cs" Line="28" Column="13" />
+      <File FileName="coreMysql/Model/JuiceModel.cs" Line="11" Column="2" />
+      <File FileName="coreMysql/Model/JuiceContext.cs" Line="9" Column="58" />
+      <File FileName="coreMysql/Controllers/JuiceController.cs" Line="2" Column="19" />
+      <File FileName="coreMysql/Program.cs" Line="24" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

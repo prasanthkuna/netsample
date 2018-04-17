@@ -1,0 +1,11 @@
+/Users/kuna/Projects/coreMysql/coreMysql/bin/Debug/netcoreapp2.0/coreMysql.deps.json
+/Users/kuna/Projects/coreMysql/coreMysql/bin/Debug/netcoreapp2.0/coreMysql.runtimeconfig.json
+/Users/kuna/Projects/coreMysql/coreMysql/bin/Debug/netcoreapp2.0/coreMysql.runtimeconfig.dev.json
+/Users/kuna/Projects/coreMysql/coreMysql/bin/Debug/netcoreapp2.0/coreMysql.dll
+/Users/kuna/Projects/coreMysql/coreMysql/bin/Debug/netcoreapp2.0/coreMysql.pdb
+/Users/kuna/Projects/coreMysql/coreMysql/obj/Debug/netcoreapp2.0/coreMysql.csprojResolveAssemblyReference.cache
+/Users/kuna/Projects/coreMysql/coreMysql/obj/Debug/netcoreapp2.0/coreMysql.csproj.CoreCompileInputs.cache
+/Users/kuna/Projects/coreMysql/coreMysql/obj/Debug/netcoreapp2.0/coreMysql.AssemblyInfoInputs.cache
+/Users/kuna/Projects/coreMysql/coreMysql/obj/Debug/netcoreapp2.0/coreMysql.AssemblyInfo.cs
+/Users/kuna/Projects/coreMysql/coreMysql/obj/Debug/netcoreapp2.0/coreMysql.dll
+/Users/kuna/Projects/coreMysql/coreMysql/obj/Debug/netcoreapp2.0/coreMysql.pdb
