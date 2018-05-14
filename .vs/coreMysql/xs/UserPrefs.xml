@@ -1,20 +1,36 @@
 ﻿<Properties StartupConfiguration="{75F36A7F-F9F7-4FC5-B657-DB521F057752}|Default">
   <MonoDevelop.Ide.ItemProperties.coreMysql PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="coreMysql/Controllers/JuiceController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="coreMysql/Model/Verificationcode.cs">
     <Files>
-      <File FileName="coreMysql/appsettings.json" Line="3" Column="114" />
+      <File FileName="coreMysql/appsettings.json" Line="3" Column="138" />
       <File FileName="coreMysql/Properties/launchSettings.json" Line="22" Column="30" />
       <File FileName="coreMysql/Startup.cs" Line="28" Column="13" />
-      <File FileName="coreMysql/Model/JuiceModel.cs" Line="11" Column="2" />
-      <File FileName="coreMysql/Model/JuiceContext.cs" Line="9" Column="58" />
-      <File FileName="coreMysql/Controllers/JuiceController.cs" Line="2" Column="19" />
+      <File FileName="coreMysql/Controllers/JuiceController.cs" Line="8" Column="37" />
       <File FileName="coreMysql/Program.cs" Line="24" Column="6" />
+      <File FileName="coreMysql/coreMysql.csproj" Line="1" Column="1" />
+      <File FileName="coreMysql/Model/JuiceitdbContext.cs" Line="27" Column="141" />
+      <File FileName="coreMysql/Model/Bug.cs" Line="11" Column="14" />
+      <File FileName="coreMysql/Model/Bugjuice.cs" Line="1" Column="1" />
+      <File FileName="coreMysql/Model/Cart.cs" Line="1" Column="1" />
+      <File FileName="coreMysql/Model/Favourite.cs" Line="1" Column="1" />
+      <File FileName="coreMysql/Model/Juice.cs" Line="11" Column="20" />
+      <File FileName="coreMysql/Model/Mixture.cs" Line="1" Column="1" />
+      <File FileName="coreMysql/Model/Paymentmode.cs" Line="1" Column="1" />
+      <File FileName="coreMysql/Model/Preference.cs" Line="11" Column="20" />
+      <File FileName="coreMysql/Model/Resource.cs" Line="1" Column="1" />
+      <File FileName="coreMysql/Model/User.cs" Line="17" Column="20" />
+      <File FileName="coreMysql/Model/Verificationcode.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/kuna/Projects/coreMysql/coreMysql/Model/JuiceContext.cs" relfile="coreMysql/Model/JuiceContext.cs" line="15" column="28" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>sample/sample.csproj</String>
+  </DisabledProjects>
 </Properties>

@@ -1,0 +1,5 @@
+/Users/kuna/Projects/coreMysql/coreMysql
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=coreMysql
+--content-root=/Users/kuna/Projects/coreMysql/coreMysql
+--file=

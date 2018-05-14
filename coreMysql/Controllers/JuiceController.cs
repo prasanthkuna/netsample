@@ -5,11 +5,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace coreMysql.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     public class JuiceController:Controller
     {
-        private readonly JuiceContext db;
-        public JuiceController(JuiceContext db)
+		private readonly JuiceitdbContext db;
+		public JuiceController(JuiceitdbContext db)
         {
             this.db = db;
         }

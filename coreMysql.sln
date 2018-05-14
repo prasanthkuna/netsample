@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coreMysql", "coreMysql\coreMysql.csproj", "{75F36A7F-F9F7-4FC5-B657-DB521F057752}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample", "sample\sample.csproj", "{264D2008-11C2-46DC-8EF0-6946951360CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{75F36A7F-F9F7-4FC5-B657-DB521F057752}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75F36A7F-F9F7-4FC5-B657-DB521F057752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75F36A7F-F9F7-4FC5-B657-DB521F057752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264D2008-11C2-46DC-8EF0-6946951360CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264D2008-11C2-46DC-8EF0-6946951360CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264D2008-11C2-46DC-8EF0-6946951360CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264D2008-11C2-46DC-8EF0-6946951360CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
